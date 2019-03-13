@@ -1,9 +1,13 @@
-main	x	    3           Stack
-fib   n     3	
-
-			                  Heap
-
-      out	  5	          Static
-      
-		        Main ()     Text
-            Fib()	
+Stack:
+	main
+		x
+			3
+	fib
+		n
+			3
+Heap:
+Static:
+		out
+Text:
+			main()
+			fib()
